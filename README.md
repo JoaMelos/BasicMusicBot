@@ -2,7 +2,7 @@
 Discord music bot basic
 
 
-npm install ffmpeg-static
+npm install ffmpeg-static `n
 npm install discord.js
 npm install better-youtube-api
 npm install ytdl-core
