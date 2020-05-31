@@ -1,0 +1,5 @@
+{
+  "PREFIX": "!", 
+  "TOKEN": "discord token goes here",
+  "YOUTUBE_API_KEY": "youtube api token goes here"
+}
